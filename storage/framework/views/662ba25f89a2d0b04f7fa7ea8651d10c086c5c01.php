@@ -1,0 +1,1 @@
+<?php /**PATH C:\xampp 7.4.28\htdocs\Modules\Blogs\Providers/../Resources/views/blogs/create.blade.php ENDPATH**/ ?>

@@ -1,0 +1,1 @@
+<?php /**PATH C:\xampp 7.4.28\htdocs\Modules\ModulesManager\Providers/../Resources/views/moduletemplates/module-sidebar.blade.php ENDPATH**/ ?>
