@@ -1,4 +1,7 @@
 <?php
+Route::get('/', function () {
+    return view('default.home'); // Ensure the correct path
+});
 
 /*
 |--------------------------------------------------------------------------
