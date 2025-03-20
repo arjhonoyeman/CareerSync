@@ -12,3 +12,6 @@
 */
 Route::get('lang/{locale}', 'ThemesController@localize')->name('localize');
 Route::get('/', 'ThemesController@getLandingPage');
+Route::get('/', function () {
+    return view('default.home'); // Ensure the correct path
+});
